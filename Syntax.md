@@ -22,7 +22,7 @@ int numbers[] = new int[5];
 numbers.length; // 5
 ```
 
-- Default array values are: `0, \u0000, false`
+- Default array values are: `0, \u0000, false, null`
 
 #### Manipulation
 ##### Printing
