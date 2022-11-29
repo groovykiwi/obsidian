@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Syntax.md",
+                "file": "Java/ASCII.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0168f9b4d5651738",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C/Exam Preparation.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Syntax.md",
+                "file": "Java/Syntax.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,8 +109,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,17 +118,64 @@
   "right": {
     "id": "a55a3ab9c1adb536",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "12cb586b214b8a4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3eee449bc4601583",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "C/Exam Preparation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1fda5217883f07e6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "C/Exam Preparation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "808b13df3087f31d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "C/Exam Preparation.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
     "width": 200,
     "collapsed": true
   },
-  "active": "2501ee32a2ddf558",
+  "active": "0168f9b4d5651738",
   "lastOpenFiles": [
-    "Math Class.md",
-    "Syntax.md",
-    "Object Oriented Programming.md",
-    "ASCII.md",
-    "Formatting.md"
+    "Java/Syntax.md",
+    "C/Exam Preparation.md",
+    "Java/ASCII.md",
+    "Java/Object Oriented Programming.md",
+    "Java/Math Class.md",
+    "Java/Formatting.md"
   ]
 }

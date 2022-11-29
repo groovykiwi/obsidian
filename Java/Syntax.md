@@ -1,4 +1,4 @@
-## Basic Syntax
+## Basic Program
 
 ```java
 import java.util.*;
@@ -15,21 +15,29 @@ Define methods with the same name but different signature  <em>(parameters / ret
 Java will pick the most appropriate method for the given parameters
 If the compiler cannot decide it is a *ambigious invocation* error
 
-## Arrays
+---
+# Arrays
+
 #### Declaration
 ```java
 int numbers[] = new int[5];
 numbers.length; // 5
 ```
 
-- Default array values are: `0, \u0000, false, null`
+- Default array values are: ` 0, \u0000, false, null `
 
 #### Manipulation
+
 ##### Printing
 ```java
 for(int i = 0, i < numbers.length, i++){
 	System.out.println(numbers[i]);
 }
+
+int[] x = { 2, 4, 5, 6 };
+        for (int item : x) {
+            System.out.println(item);
+        }
 
 // ALTERNATIVELY
 
@@ -52,9 +60,10 @@ System.arraycopy(l1, 0, l2, 0, l1.length)
 
 
 #### Casting
-`int a = 'a'`
-`char b = 98`
-`Integer.parseInt(String)`
+`int a = 'a'`  
+`char b = 98`  
+`Integer.parseInt(String)`  
+`Character.parseChar(String)`  
 
 
 

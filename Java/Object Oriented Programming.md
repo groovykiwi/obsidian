@@ -1,7 +1,4 @@
-## Classes
-
-Objects are reference data type
-
+# Classes
 
 #### Definition
 ```java
@@ -20,6 +17,7 @@ Circle circle1 = new Circle();
 
 - A *static* method can be invoked from the **Class**
 - An *instance* method can only be invoked on a specific instance
+- Objects are reference data type
 
 #### UML (Unified Modeling Language)
 ```mermaid
