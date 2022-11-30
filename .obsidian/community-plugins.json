@@ -1,4 +1,6 @@
 [
   "table-editor-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-markdown-formatting-assistant-plugin",
+  "obsidian-linter"
 ]
