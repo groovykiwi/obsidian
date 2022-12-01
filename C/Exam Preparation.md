@@ -90,7 +90,7 @@ cp->name+1;
 ++*p  >  ++(*p)
 *p++  >  *(p++)
 ```
-
+if p++ assign first then ++
 ## Infix, Postfix, Infix
 
 **Infix to Postfix**
@@ -130,3 +130,14 @@ void pop(struct stack *ptr){
 - When empty top = -1
 - Stack Underflow :   top < -1
 - Stack Overflow   :   top > 100
+
+## Binary Search Tree
+Higher on right
+Lower on left
+
+                 Action Print Action
+In-order      : Left Root Right
+Pre-order    : Root Left Right
+Post-order  : Left Right Root
+
+![[Pasted image 20221130165906.png|500]]

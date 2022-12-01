@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0168f9b4d5651738",
+            "id": "1c697fc8cb2b2cb7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1c697fc8cb2b2cb7",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "C/Pasted image 20221129171610.png"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -51,6 +40,14 @@
               "state": {
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "2501ee32a2ddf558",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           },
           {
@@ -77,14 +74,6 @@
             }
           },
           {
-            "id": "2501ee32a2ddf558",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
             "id": "b891acf3006896df",
             "type": "leaf",
             "state": {
@@ -96,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -116,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/Pasted image 20221129171610.png",
+                "file": "C/Exam Preparation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/Pasted image 20221129171610.png",
+                "file": "C/Exam Preparation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/Pasted image 20221129171610.png"
+                "file": "C/Exam Preparation.md"
               }
             }
           },
@@ -167,8 +156,9 @@
   },
   "active": "2501ee32a2ddf558",
   "lastOpenFiles": [
-    "C/Exam Preparation.md",
+    "Pasted image 20221130165809.png{width=50%}.md",
     "C/Pasted image 20221129171610.png",
+    "C/Exam Preparation.md",
     "C/Examples.md",
     "Java/Object Oriented Programming.md",
     "Java/Math Class.md",
