@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic Design/Decoders.md",
+                "file": "Logic Design/Adders.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic Design/Decoders.md",
+                "file": "Logic Design/Adders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic Design/Decoders.md",
+                "file": "Logic Design/Adders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic Design/Decoders.md"
+                "file": "Logic Design/Adders.md"
               }
             }
           },
@@ -193,15 +193,15 @@
   },
   "active": "2501ee32a2ddf558",
   "lastOpenFiles": [
-    "Logic Design/Multiplexer.md",
-    "Logic Design/Pasted image 20221202133602.png",
-    "Questions.md",
-    "Logic Design/Adders.md",
-    "C/Exam Preparation.md",
     "Logic Design/Decoders.md",
+    "Logic Design/Multiplexer.md",
+    "Logic Design/Adders.md",
+    "C/Pasted image 20221129171610.png",
+    "C/Pasted image 20221129200536.png",
+    "C/Pasted image 20221129203311.png",
     "C/Pasted image 20221130165906.png",
     "C/Pasted image 20221130165809.png",
-    "Pasted image 20221130165809.png{width=50%}.md",
-    "C/Pasted image 20221129171610.png"
+    "Logic Design/Images/Adder Substractor.png",
+    "Logic Design/Images/Full Adder.png"
   ]
 }

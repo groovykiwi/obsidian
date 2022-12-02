@@ -1,2 +1,5 @@
-## Adding two bits
-![[Pasted image 20221202161832.png]]
+## Half adder
+![[Half Adder.png]]
+## Full adder
+![[Full Adder.png]]
+![[Adder Substractor.png]]

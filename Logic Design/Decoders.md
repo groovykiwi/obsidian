@@ -7,4 +7,4 @@
 
 
 (3x8) Decoders are made of 2 (2x4) Decoders
-![[Pasted image 20221202133602.png]]
+![[3x8 decoder.png]]
