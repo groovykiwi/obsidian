@@ -2,5 +2,8 @@
   "accentColor": "#6cb37c",
   "baseFontSize": 18,
   "cssTheme": "Material Ocean",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "Iterative Rainbow Folder Backgrounds"
+  ]
 }

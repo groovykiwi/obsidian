@@ -653,6 +653,8 @@ AxF
 AD
 Apg
 AhY
+Answer
+Ata
 high
 have
 higher
@@ -854,6 +856,7 @@ sz
 sLb
 sCy
 sFo
+summary
 low
 lines
 left
@@ -1144,6 +1147,7 @@ mWVaXI
 mqk
 mA
 mkV
+meaning
 control
 can
 cannot
@@ -1466,6 +1470,7 @@ eqN
 eQx
 ebW
 ed
+explains
 Pointers
 Precedence
 Prefix
@@ -2797,6 +2802,7 @@ dAi
 dk
 dp
 dIm
+details
 Queue
 QJ
 Qo
@@ -3071,6 +3077,7 @@ FEE
 Fdi
 FmM
 Fj
+Find
 will
 wn
 wM

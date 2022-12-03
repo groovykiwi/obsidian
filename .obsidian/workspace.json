@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic Design/Multiplexer.md",
-                "mode": "preview",
+                "file": "Logic Design/Adders.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,15 +192,15 @@
   },
   "active": "2501ee32a2ddf558",
   "lastOpenFiles": [
-    "Logic Design/Decoders.md",
     "Logic Design/Multiplexer.md",
+    "Logic Design/Decoders.md",
     "Logic Design/Adders.md",
-    "C/Pasted image 20221129171610.png",
-    "C/Pasted image 20221129200536.png",
-    "C/Pasted image 20221129203311.png",
+    "Logic Design/Questions.md",
+    "C/Exam Preparation.md",
     "C/Pasted image 20221130165906.png",
-    "C/Pasted image 20221130165809.png",
-    "Logic Design/Images/Adder Substractor.png",
-    "Logic Design/Images/Full Adder.png"
+    "C/Pasted image 20221129203311.png",
+    "C/Pasted image 20221129200536.png",
+    "C/Pasted image 20221129171610.png",
+    "C/Examples.md"
   ]
 }
