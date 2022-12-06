@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "1097f4ba0143eaa0",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bbaf94aded56e68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a6845380e7c26b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C/Examples.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "70aa30012841db5a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "db579f06419ce6a8",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "ae3c9084b502cf32",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "fbec7507c1ada442",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "4f34131cea0d9436",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "ae801563dce1e77c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "88a93dfd956050bd",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "C/Examples.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "20ac32cb3faddfd4",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "C/Examples.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "c1b69e6466e20b93",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "C/Examples.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "1a6845380e7c26b7",
+  "lastOpenFiles": [
+    "C/Pasted image 20221129200536.png",
+    "C/Pasted image 20221129171610.png",
+    "C/Examples.md",
+    "Logic Design/Decoders.md",
+    "Logic Design/Questions.md",
+    "Logic Design/Multiplexer.md",
+    "Java/Object Oriented Programming.md",
+    "Logic Design/Adders.md",
+    "Java/Syntax.md",
+    "Java/ASCII.md"
+  ]
+}

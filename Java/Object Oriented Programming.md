@@ -32,3 +32,15 @@ getArea(): int
 - \+ : public
 - \- : private
 - <u>underline</u> : static
+
+## Inheritance 
+```java
+public class Employee extends Person {
+public Employee{
+    super(); // ALWAYS IMPLIED IF NOT SPECIFIED
+    System.out.println("Hey");
+    }
+}
+```
+- `super()` acts as the constructor of the superclass and always comes first 
+- `super()` is like copy pasting the subclass's constructor into the subclass's constructor 
