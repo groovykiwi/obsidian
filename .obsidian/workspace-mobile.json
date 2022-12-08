@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/Examples.md",
+                "file": "Logic Design/Sequential Circuit.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "C/Examples.md",
+            "file": "Logic Design/Sequential Circuit.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "C/Examples.md",
+            "file": "Logic Design/Sequential Circuit.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "C/Examples.md"
+            "file": "Logic Design/Sequential Circuit.md"
           }
         }
       }
@@ -123,15 +123,15 @@
   },
   "active": "1a6845380e7c26b7",
   "lastOpenFiles": [
+    "C/Exam Preparation.md",
+    "Logic Design/Sequential Circuit.md",
+    "C/Examples.md",
     "C/Pasted image 20221129200536.png",
     "C/Pasted image 20221129171610.png",
-    "C/Examples.md",
     "Logic Design/Decoders.md",
     "Logic Design/Questions.md",
     "Logic Design/Multiplexer.md",
     "Java/Object Oriented Programming.md",
-    "Logic Design/Adders.md",
-    "Java/Syntax.md",
-    "Java/ASCII.md"
+    "Logic Design/Adders.md"
   ]
 }
