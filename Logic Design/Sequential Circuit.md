@@ -8,4 +8,33 @@ present state: output value of memory (stored)
 next state: input value to memory (to be stored)
 
 
+## Clock
+![[Clock Cycle.png]]
+- **Positive Pulse**: when the level of the clock is 1
+- **Negative Pulse**: when the level of the clock is 0
+- **Rising Edge**: when the clock goes from 0 to 1
+- **Falling Edge**: when the clock goes from 1 down to 0
+- 
+### SR latch
+![[SR Latch.png]]
+| S   | R   | Q   | $\bar{Q}$ | State                            |
+| --- | --- | --- | --------- | -------------------------------- |
+| 0   | 0   | X   | X         | No change                        |
+| 0   | 1   | 0   | 1         | Reset                            |
+| 1   | 0   | 1   | 0         | Set                              |
+| 1   | 1   | -   | -         | Undefined (Oscillation 1&rarr;0) | 
 
+### $\bar{S}\bar{R}$ Latch with NAND
+![[SR Latch NAND.png]]
+| $\bar{S}$ | $\bar{R}$ | $Q$ | $\bar{Q}$ | State                            |
+| --------- | --------- | --- | --------- | -------------------------------- |
+| 1         | 1         | X   | X         | No change                        |
+| 1         | 0         | 0   | 1         | Reset                            |
+| 0         | 1         | 1   | 0         | Set                              |
+| 0         | 0         | -   | -         | Undefined (Oscillation 0&rarr;1) |
+
+### SR Latch with a Clock Input
+Same as a normal SR Latch but only has an effect when C=1
+Uses a $\bar{S}\bar{R}$ Latch with 2 NAND gates![[Images/SR Latch with clock.png]]
+### D Latch
+![[D Latch.png]]

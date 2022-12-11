@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic Design/Adders.md",
-                "mode": "source",
+                "file": "Java/ASCII.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "0905548a1958be28",
+            "id": "dda80549844e69d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic Design/Adders.md",
+                "file": "Logic Design/Sequential Circuit.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic Design/Adders.md",
+                "file": "Logic Design/Sequential Circuit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic Design/Adders.md",
+                "file": "Logic Design/Sequential Circuit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic Design/Adders.md"
+                "file": "Logic Design/Sequential Circuit.md"
               }
             }
           },
@@ -181,9 +182,17 @@
               "type": "side-panel-control-view",
               "state": {}
             }
+          },
+          {
+            "id": "cd6350b52769faf5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -192,15 +201,15 @@
   },
   "active": "2501ee32a2ddf558",
   "lastOpenFiles": [
-    "Logic Design/Multiplexer.md",
-    "Logic Design/Decoders.md",
-    "Logic Design/Adders.md",
-    "Logic Design/Questions.md",
-    "C/Exam Preparation.md",
-    "C/Pasted image 20221130165906.png",
+    "Logic Design/Images/D Latch.png",
+    "Logic Design/Sequential Circuit.md",
+    "Logic Design/Images/SR Latch with clock.png",
+    "Logic Design/Images/SR Latch NAND.png",
+    "Logic Design/Images/SR Latch.png",
+    "Math241/Differential Equations.md",
+    "Java/ASCII.md",
     "C/Pasted image 20221129203311.png",
-    "C/Pasted image 20221129200536.png",
     "C/Pasted image 20221129171610.png",
-    "C/Examples.md"
+    "C/Pasted image 20221129200536.png"
   ]
 }
