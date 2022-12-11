@@ -8,5 +8,6 @@
   },
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Logic Design/Images",
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true
 }
