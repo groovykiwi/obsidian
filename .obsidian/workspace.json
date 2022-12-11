@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/ASCII.md",
-                "mode": "preview",
+                "file": "Logic Design/Sequential Circuit.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,15 +200,15 @@
   },
   "active": "2501ee32a2ddf558",
   "lastOpenFiles": [
-    "Logic Design/Images/D Latch.png",
+    "Logic Design/Adders.md",
+    "Logic Design/Decoders.md",
+    "Logic Design/Multiplexer.md",
+    "Logic Design/Questions.md",
+    "Java/ASCII.md",
     "Logic Design/Sequential Circuit.md",
+    "Logic Design/Images/D Latch.png",
     "Logic Design/Images/SR Latch with clock.png",
     "Logic Design/Images/SR Latch NAND.png",
-    "Logic Design/Images/SR Latch.png",
-    "Math241/Differential Equations.md",
-    "Java/ASCII.md",
-    "C/Pasted image 20221129203311.png",
-    "C/Pasted image 20221129171610.png",
-    "C/Pasted image 20221129200536.png"
+    "Logic Design/Images/SR Latch.png"
   ]
 }
