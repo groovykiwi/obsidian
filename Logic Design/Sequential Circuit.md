@@ -35,6 +35,7 @@ next state: input value to memory (to be stored)
 
 ### SR Latch with a Clock Input
 Same as a normal SR Latch but only has an effect when C=1
-Uses a $\bar{S}\bar{R}$ Latch with 2 NAND gates![[Images/SR Latch with clock.png]]
+Uses a $\bar{S}\bar{R}$ Latch with 2 NAND gates
+![[Images/SR Latch with clock.png]]
 ### D Latch
 ![[D Latch.png]]
