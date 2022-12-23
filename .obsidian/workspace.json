@@ -54,6 +54,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0f113f9644f97123",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
+            }
           }
         ]
       }
@@ -120,8 +130,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -210,10 +219,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2501ee32a2ddf558",
+  "active": "4bd83b48b7fb3786",
   "lastOpenFiles": [
-    "Java/Math Class.md",
     "Logic Design/Sequential Circuit.md",
+    "Java/Math Class.md",
     "Logic Design/Images/ex1.png",
     "Logic Design/Questions.md",
     "Logic Design/Multiplexer.md",
