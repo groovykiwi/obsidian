@@ -207,6 +207,8 @@ iTh
 iSGrfA
 ita
 iyb
+invocation
+into
 and
 are
 assign
@@ -312,6 +314,11 @@ ahoEG
 agCz
 aov
 aEXg
+appropriate
+ambigious
+array
+acts
+always
 outputs
 of
 output
@@ -610,6 +617,7 @@ Oscillation
 OyJ
 OPAk
 Onv
+Overloading
 Active
 Accessing
 Action
@@ -712,6 +720,7 @@ Aw
 Apvw
 AEY
 ADY
+Arrays
 high
 have
 higher
@@ -940,6 +949,10 @@ stored
 sKHH
 sDD
 sQQ
+sensitive
+signature
+superclass
+subclass
 low
 lines
 left
@@ -1039,6 +1052,8 @@ level
 latch
 lit
 loy
+loop
+like
 Decoders
 Datatypes
 Definition
@@ -1151,6 +1166,9 @@ Drs
 DKk
 Djl
 Dks
+Define
+Declaration
+Default
 made
 my
 maZ
@@ -1252,6 +1270,9 @@ memory
 mOt
 mRK
 mRL
+methods
+most
+make
 control
 can
 cannot
@@ -1373,6 +1394,10 @@ ca
 change
 cwY
 cntR
+compiler
+copy
+constructor
+comes
 Logic
 Lower
 Left
@@ -1478,6 +1503,8 @@ Latch
 Lj
 LbT
 LBy
+Latches
+Level
 expression
 empty
 ea
@@ -1600,6 +1627,8 @@ eCEy
 eNX
 effect
 eDHp
+error
+each
 Pointers
 Precedence
 Prefix
@@ -1710,6 +1739,9 @@ PiCy
 Positive
 Pulse
 PGr
+Problems
+Program
+Printing
 You
 Yo
 Yr
@@ -1904,6 +1936,8 @@ normal
 nVv
 naF
 nFXq
+name
+new
 for
 first
 front
@@ -2109,6 +2143,9 @@ pd
 pg
 pvtttt
 png
+parameters
+pick
+pasting
 Strings
 Structures
 Stack
@@ -2432,6 +2469,7 @@ CEy
 CZh
 CAA
 Cycle
+Casting
 Misc
 MAXQUEUE
 MF
@@ -2542,6 +2580,7 @@ MGOE
 MXm
 Mys
 MVV
+Manipulation
 the
 to
 than
@@ -2770,6 +2809,7 @@ rX
 rRR
 rPa
 rarr
+return
 both
 be
 brackets
@@ -2975,6 +3015,7 @@ IBO
 INxH
 IKGGGGGG
 Images
+Inheritance
 don
 dw
 dR
@@ -3073,6 +3114,8 @@ dCNR
 dgg
 down
 dLp
+different
+decide
 Queue
 QJ
 Qo
@@ -3279,6 +3322,7 @@ RHUYQ
 Rising
 Reset
 ROB
+Representation
 Front
 Ft
 Fn
@@ -3697,6 +3741,7 @@ Uhjh
 Undefined
 Urx
 Uses
+Useful
 Binary
 BH
 BG
@@ -3786,6 +3831,7 @@ BcL
 BDO
 BLT
 Bcb
+Basic
 Kc
 KH
 KE
@@ -3979,7 +4025,6 @@ NOPP
 NWW
 Nfs
 Negative
-NAND
 NmJ
 NpW
 NmZ
@@ -4282,6 +4327,7 @@ gff
 gbb
 goes
 gates
+given
 Zb
 ZA
 ZU
@@ -4858,6 +4904,7 @@ Jm
 JXv
 JKP
 Jnp
+Java
 GIs
 Ga
 GF
@@ -4970,6 +5017,7 @@ GGGGGGGG
 GxrS
 GuU
 Gvtttt
+Graphic
 uDra
 uN
 uI
@@ -5360,6 +5408,7 @@ vQU
 vyO
 vYv
 vWq
+values
 üx
 üz
 ÖG

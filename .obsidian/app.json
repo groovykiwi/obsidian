@@ -9,5 +9,6 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Logic Design/Images",
   "newLinkFormat": "relative",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "promptDelete": false
 }
