@@ -5,7 +5,6 @@
 int *ptr[5]
 ```
 
-
 **You can have negative indexes for pointers**
 ```c 
 char q[3]={'A','B','C'};
@@ -139,5 +138,3 @@ Lower on left
 In-order      : Left Root Right
 Pre-order    : Root Left Right
 Post-order  : Left Right Root
-
-![[Pasted image 20221130165906.png|500]]
