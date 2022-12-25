@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0cb96b1312891cfa",
+        "id": "6c833ee76b0a65a9",
         "type": "tabs",
         "children": [
           {
-            "id": "1c697fc8cb2b2cb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C/Basics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dda80549844e69d3",
+            "id": "5a30a6c14e1d9bdc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -28,40 +16,6 @@
                 "file": "Logic Design/Sequential Circuit.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "e83da326f082d944",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logic Design/Decoders.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7326a7d525db37d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logic Design/Adders.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f113f9644f97123",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
               }
             }
           }
@@ -145,41 +99,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3eee449bc4601583",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "C/Basics.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "1fda5217883f07e6",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "C/Basics.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "808b13df3087f31d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/Basics.md"
+                "file": "Logic Design/Sequential Circuit.md"
               }
             }
           },
@@ -200,36 +125,35 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 312.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4bd83b48b7fb3786",
+  "active": "5a30a6c14e1d9bdc",
   "lastOpenFiles": [
+    "Logic Design/Images/Graphic Latches.png",
     "Logic Design/Sequential Circuit.md",
-    "Java/Math Class.md",
-    "Logic Design/Images/ex1.png",
-    "Logic Design/Questions.md",
-    "Logic Design/Multiplexer.md",
-    "Logic Design/Decoders.md",
-    "Logic Design/Adders.md",
-    "Java/Syntax.md",
-    "Java/Object Oriented Programming.md",
-    "Java/Formatting.md"
+    "Logic Design/Images/MUX.png",
+    "Images/Pasted image 20221225224353.png.md",
+    "Logic Design/Images/Pasted image 20221225224353.png",
+    "Logic Design/Flip-Flops.md",
+    "Logic Design/Images/Pasted image 20221225223516.png",
+    "Logic Design/Images/ff-excitation.png",
+    "Logic Design/Images/SR Latch.png",
+    "Logic Design/Images/SR Latch with clock.png"
   ]
 }
