@@ -26,7 +26,7 @@ The circle on the clock input indicates a **falling edge-triggered** FF
 ## State Table
 ![](Images/state-table.png)
 ## State Diagram
-State is in the bubble and 0/0 stands for INPUT/OUTPUT
-![](Images/state-diagram1.png)
-00/0 in the bubble stands for STATE/OUTPUT and the arrows contain the input
-![](Images/state-diagram2.png)
+State is in the bubble and 0/0 stands for INPUT/OUTPUT  
+![](Images/state-diagram1.png)    
+00/0 in the bubble stands for STATE/OUTPUT and the arrows contain the input  
+![](Images/state-diagram2.png)  
