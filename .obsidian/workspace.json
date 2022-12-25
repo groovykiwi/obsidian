@@ -145,15 +145,15 @@
   },
   "active": "5a30a6c14e1d9bdc",
   "lastOpenFiles": [
-    "Logic Design/Images/Graphic Latches.png",
-    "Logic Design/Sequential Circuit.md",
+    "Logic Design/Images/3x8 decoder.png",
+    "Logic Design/Images/Adder Substractor.png",
+    "Logic Design/Images/state-table.png",
+    "Logic Design/Adders.md",
     "Logic Design/Images/MUX.png",
-    "Images/Pasted image 20221225224353.png.md",
-    "Logic Design/Images/Pasted image 20221225224353.png",
-    "Logic Design/Flip-Flops.md",
-    "Logic Design/Images/Pasted image 20221225223516.png",
-    "Logic Design/Images/ff-excitation.png",
-    "Logic Design/Images/SR Latch.png",
-    "Logic Design/Images/SR Latch with clock.png"
+    "Logic Design/Images/Multiplexer.png",
+    "Logic Design/Images/latches-graphic.png",
+    "Logic Design/Images/latches.png",
+    "Logic Design/Images/Flip-Flops.png",
+    "Logic Design/Images/Full Adder.png"
   ]
 }
